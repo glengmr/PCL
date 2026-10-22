@@ -1,6 +1,11 @@
 ## 这个 PCL 版本是为 2026/10/20 后 PCL 停用下载而产生的 『 PCL 可下载版』，名为 PCL downloadable edition (PCL DE)
 
-## 以下是原版 README 文件
+### 关于源码的修改
+只修改了 /Plain Craft Launcher 2/Modules/ModSecret.vb 的第 18 行 "Public Const RestrictMcDownload As Boolean = True"，将其改为了 False 。
+这可以解除 PCL 对原版MC游戏文件下载的限制。
+其他源码均未改动。
+
+## 以下是原版 README 文件（有部分修改）
 
 # Plain Craft Launcher
 
