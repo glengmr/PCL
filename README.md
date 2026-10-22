@@ -1,4 +1,4 @@
-## 这个 PCL 版本是为 2026/10/20 后 PCL 停用下载而产生的 『 PCL 可下载版』，名为 PCL downloadable edition (PCL DE)
+## 这个 PCL 版本是为 2026/10/20 后 PCL 停用下载而产生的 『 PCL 可下载版』，名为 PCL UNOFFICIAL downloadable edition (PCL UDE)
 
 ### 关于源码的修改
 只修改了 /Plain Craft Launcher 2/Modules/ModSecret.vb 的第 18 行 "Public Const RestrictMcDownload As Boolean = True"，将其改为了 False 。
